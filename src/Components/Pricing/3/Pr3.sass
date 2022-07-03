@@ -1,0 +1,159 @@
+.Pr3
+    max-width: 1920px
+    width: 100%
+    height: 700px
+    display: flex
+    justify-content: center
+
+    .wrapper
+        max-width: 1200px
+        width: 100%
+        display: flex
+        border-radius: 10px
+        align-items: center
+        justify-content: center
+        
+        .gallery
+            margin-bottom: 10%
+            width: 42%
+            .mob2
+                margin-left: -60%
+            .mob1
+                display: none
+            .mob3
+                display: none
+            .mob4
+                display: none
+        .block
+            width: 60%
+            display: flex
+            flex-direction: column
+
+            .text1
+                width: 100%
+                font-family: 'Inter'
+                font-style: normal
+                font-weight: 400
+                font-size: 48px
+                line-height: 58px
+                color: #FFFFFF
+                .big
+                    font-weight: 800
+            .text2
+                margin-top: 5%
+                font-family: 'Inter'
+                font-style: normal
+                font-weight: 400
+                font-size: 24px
+                line-height: 150%
+                color: #FFFFFF
+            .button
+                margin-top: 5%
+                max-width: 282px
+                width: 100%
+                height: 60px
+                background: linear-gradient(90deg, #2F80ED 1.31%, #2D9CDB 100%)
+                border: none
+                border-radius: 5px
+                font-family: 'Inter'
+                font-style: normal
+                font-weight: 700
+                font-size: 24px
+                line-height: 150%
+                text-align: center
+                color: #FFFFFF
+                cursor: pointer
+
+            .photo1
+                margin-top: 5%
+                width: 43%
+                height: 102px
+            .photo2
+                display: none
+
+
+@media screen and (max-width:1024px)
+    .Pr3
+        max-width: 1024px
+        width: 100%
+        .wrapper
+            max-width: 1024px
+            width: 100%
+            .gallery
+                .mob2
+                    display: none
+                .mob1
+                    display: block
+            .block
+                .text1
+                    font-size: 40px
+                    line-height: 48px
+                .text2
+                    width: 90%
+                .photo1
+                    margin-top: 5%
+                    width: 50%
+                    height: 102px
+
+
+@media screen and (max-width:768px)
+    .Pr3
+        max-width: 768px
+        width: 100%
+        height: 1150px
+        .wrapper
+            max-width: 744px
+            width: 100%
+            flex-direction: column
+            .gallery
+                width: 100%
+                margin-bottom: 0
+                .mob1
+                    display: none
+                .mob3
+                    display: flex
+            .block
+                width: 100%
+                justify-content: center
+                align-items: center
+                .text1
+                    text-align: center
+                .text2
+                    width: 70%
+                    text-align: center
+                .photo1
+                    display: none
+                .photo2
+                    display: block
+                    margin-top: 3%
+                    margin-left: auto
+                    margin-right: auto
+                    width: 50%
+                .button
+                    margin-top: 3%
+    
+@media screen and (max-width:360px)
+    .Pr3
+        max-width: 360px
+        width: 100%
+        height: 950px
+        .wrapper
+            max-width: 340px
+            width: 100%
+            .gallery
+                width: 100%
+                .mob3
+                    display: none
+                .mob4
+                    display: flex
+            .block
+                .text1
+                    font-size: 24px
+                    line-height: 29px
+                .text2
+                    width: 100%
+                    font-size: 16px
+                    line-height: 150%
+                .photo2
+                    width: 85%
+                

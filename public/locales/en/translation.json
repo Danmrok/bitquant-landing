@@ -1,0 +1,84 @@
+{
+    "header":{
+        "home":"Home",
+        "about":"About Bitquant",
+        "features":"Features",
+        "testimonials":"Testimonials",
+        "pricing":"Pricing",
+        "register":"Register now"
+    },
+    "home":{
+        "start":"Start earning",
+        "with":"with automated crypto trading service for guaranteed monthly profit",
+        "two":"",
+        "buy":"",
+        "with2":"",
+        "up":"up to 20%",
+        "earn":"Earn your real passive income while reducing trading risks and losses",
+        "button":"Try it for free!"
+    },
+    "about":{
+        "service":"is a service for automatic crypto trading and maximizing profits based on artificial intelligence and patented trading and financial protection algorithms",
+        "help":"We help cryptocurrency owners to multiply assets, making trading simple and convenient. You no longer need to wasting time tracking quotes and worry about the safety of assets thanks to constant monitoring of the market by real traders",
+        "button":"Register now"
+    },
+    "fr1":{
+        "reason":"3 Reasons",
+        "use":"to Use BitQuant",
+        "automatic":"Automatic trading allows you to stop sitting the whole day in front of charts to find trading opportunities. It can work without checking as long as you may need",
+        "provide":"BitQuant can provide you with the guaranteed monthly profit up to 20%",
+        "trading":"To be sure that the trading bot works properly we have real traders who have developed the platform. A constant control from them will help the system performs stable and make profit"
+    },
+    "fr2":{
+        "main":"The Main Benefits",
+        "use":"of BitQuant",
+        "execute":"BitQuant can execute orders on a terminal completely automatically. It calculates the best entry point, Stop Loss and Take Profit levels",
+        "advisor":"The advisor takes into account available margin before opening orders to avoid margin calls",
+        "deliver":"We deliver Bitquant with a complete user guide that helps you with installing and customizing the system properly",
+        "try":"You can try on welcome and helpful 24/7 support"
+    },
+    "fr3":{
+        "support":"Supported Cryptocurrency Exchanges",
+        "choose":"Choose from our constantly expanding list of some of the world’s most trusted exchanges"
+    },
+    "testimonials":{
+        "use":"uses more than",
+        "user":"users from all over the world.",
+        "why":"Why don't you give it a try right now?",
+        "bitquant":"BitQuant is the best option for those with no experience in professional trading and investing in cryptocurrency. Ensure yourself a passive income with minimal risks",
+        "button":"Try it for free!"
+    },
+    "pr1":{
+        "real":"Real traders and crypto enthusiasts",
+        "trust":"trust BitQuant",
+        "using":"I have been using BitQuant for three months now. I have increased my cryptocurrency deposit by more than 50% during this time. It is a great result! After all, I have no experience in professional trading and analytics.",
+        "innovative":"BitQuant is an innovative service that worked perfectly for me. Now I can profit from my cryptocurrency savings without wasting time on transactions. It also has a very excellent interface and favorable rates.",
+        "invested":"A month ago, I invested $1,000 and only spent $39 in commissions. In that time, I earned over $200. It's confirmed that BitQuant really works based on AI and makes no mistakes."
+    },
+    "pr2":{
+        "pricing":"Pricing",
+        "amount":"Deposit amount",
+        "period":"period",
+        "month":"month",
+        "price":"price",
+        "button":"Start free trial"
+    },
+    "pr3":{
+        "can":"You can purchase",
+        "via":"subscription via",
+        "top":"You can top up your deposit with in-demand tokens. We are also working on increasing the number of tokens for payment",
+        "button":"Choose and start!"
+    },
+    "full":{
+        "try":"Try",
+        "today":"today and gain full access to the service absolutely",
+        "for":"FREE for 7 days",
+        "all":"All you need to start trading and get access to BitQuant is to make a deposit on Huobi and connect API",
+        "it":"Try it for 7 day 100% free!"
+    },
+    "crypto":{
+        "you":"Are you ready to make passive profits",
+        "in":"in cryptocurrency?",
+        "get":"Get started!"
+    }
+}
