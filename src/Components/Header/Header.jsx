@@ -4,7 +4,7 @@ import logo from '../Images/logo.svg'
 import logo1 from '../Images/logo_1.svg'
 import { Link } from 'react-scroll'
 import { useTranslation } from "react-i18next";
-
+import polygon from '../Images/Polygon 1.svg'
 const Header = () =>{
 
     const {i18n} = useTranslation()
@@ -63,7 +63,7 @@ const Header = () =>{
                 </ul>
                     <button className="register">{t('header.register')}</button>            
                     <div className="error">{Array.map(el=>
-                    el === i18n.language? null : <button onClick={()=>i18n.changeLanguage(el)} className="language">{i18n.language}</button>  )}
+                    el === i18n.language? null : <button onClick={()=>i18n.changeLanguage(el)} className="language">{i18n.language} <img src={polygon} alt="error" /></button>  )}
                     </div>    
 
                 <div class="hamburger-menu">
@@ -72,6 +72,7 @@ const Header = () =>{
                 <span></span>
                 </label>  <ul class="menu__box">
                 <Link
+                
                  activeClass="active"
                  to="home" 
                  spy={true} 
